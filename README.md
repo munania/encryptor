@@ -38,25 +38,25 @@ to discuss what you would like to change.
 ### Encryption
 Message - encrypted using a shift of '5'
 
-'''bash
+```bash
 This is a secret message.
-'''
+````
 Encrypted Message
 
-'''bash
+```bash
 Ymnx nx f xjhwjy rjxxflj.
-'''
+````
 
 ### Decryption
 Message - decrypted using a shift of '5'
 
-'''bash
+```bash
 Ymnx nx f xjhwjy rjxxflj.
-'''
+```
 Decrypted Message
-'''bash
+```bash
 This is a secret message.
-'''
+```
 
 ## Links
 https://github.com/munania/hng.git
